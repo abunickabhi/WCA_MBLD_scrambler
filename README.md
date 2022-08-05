@@ -1,10 +1,14 @@
-# WCA_allpuzzle_scrambler
-Using a simple non-lego robot to make Tnoodle scramblers for all puzzles including pyraminx , 6x6x, 7x7, sq-1 and the other WCA puzzles.
+## WCA MBLD scrambler
 
-We now know that 2x2, 3x3, bigcubes and clock can be successfully moved/turned/scrambled.
+The process this robot does is that:
+put cubes on conveyor belt
+all gets scrambled, and stacked in square formation
+speed should be 60 cube scrambling in 3 minutes
+Different 3x3s can be used, scrambling mechanism should be able to scramble accurately for different tension cube
 
-I still do not know if a  sq-1 scrambler exists. It would be super hard to build as the puzzle shapeshifts.
-
+## WCA all puzzle scrambler
+In this product I make a simple robot to make Tnoodle scramblers for all puzzles including pyraminx, 6x6x, 7x7, sq-1 and the other WCA puzzles.
+We now know that 2x2, 3x3, bigcubes and clock can be successfully moved/turned/scrambled. A  square-1 scrambler does not exists, i would be super fun to build it as the puzzle shapeshifts.
 
 Some simple solvers:
 https://www.instructables.com/Rubiks-Cube-Solver/

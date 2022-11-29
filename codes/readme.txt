@@ -1,0 +1,1 @@
+The codes that will sit in this folder would help solve the cube state, identify the puzzle, identify the scramble, embedded codes, robotics code etc.
